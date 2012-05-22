@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ProverbsActivity!</string>
+    <string name="app_name">proverbs</string>
+    <string name="proverb1">A bird in the hand is worth 50 bucks on the black market.</string>
+    <string name="proverb2">When life gives you lemons, set life\'s house on fire.</string>
+    <string name="proverb3">An eye for an eye makes the world blind.</string>
+    <string name="proverb4">Don\'t eat yellow snow. It\'s pee.</string>
+    <string name="proverb5">Steal your enemy\'s chair for fun and profit.</string>
+    <string name="proverb6">So, wagon wheels are aliens? How the fuck does that make any sense?</string>
+    <string name="proverb7">And Christ said: don\'t be a dick.</string>
+    <string name="proverb8">And so long as it harms none, do as thou wilt.</string>
+    <string name="proverb9">Sometimes, people can be a bit shit.</string>
+    <string name="proverb10">Never tickle an angry gorilla.</string>
+    <string name="button_text">Click me for a proverb!</string>
+    <string name="button_clicked">Click me again for another!</string>
+
+</resources>
